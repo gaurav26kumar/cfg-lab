@@ -141,4 +141,7 @@ Or just visit **[cfglab.netlify.app](https://cfglab.netlify.app/)** directly.
 
 Built with vanilla HTML, CSS, and JavaScript · Deployed on Netlify
 
+Author
+Gaurav Kumar
+
 </div>
