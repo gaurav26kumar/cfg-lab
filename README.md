@@ -9,15 +9,22 @@ An interactive web-based platform to learn and experiment with Context-Free Gram
 CFG Lab is designed to help students and learners build a strong intuition for formal language theory. It combines clear theoretical explanations with interactive visual tools to make complex concepts easier to understand.
 
 Topics Covered:
-Grammar definitions
-Leftmost & rightmost derivations
-Parse trees
-Ambiguity in grammars
-Chomsky Normal Form (CNF)
-Real-world applications
-✨ Features
-🎯 Core Learning Modules
 
+Grammar definitions
+
+Leftmost & rightmost derivations
+
+Parse trees
+
+Ambiguity in grammars
+
+Chomsky Normal Form (CNF)
+
+Real-world applications
+
+✨ Features
+
+🎯 Core Learning Modules
 
 📖 Step-by-step explanations of CFG concepts
 
